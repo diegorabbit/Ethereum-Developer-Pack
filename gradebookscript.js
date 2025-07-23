@@ -1,3 +1,5 @@
+// https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/review-js-fundamentals-by-building-a-gradebook-app
+
 // Calculate the average of the class scores
 function getAverage(scores) {
   let total = 0;
